@@ -1,2 +1,2 @@
 # Demo
-shopping app
+shopping app for sikslik
